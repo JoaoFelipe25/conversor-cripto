@@ -2,4 +2,4 @@
 
 
 
-(codigos)[src/components/]
+[codigos](src/components/)
